@@ -1,20 +1,20 @@
 title:            Scribble
 description:      A jekyll theme. Because I scribble.
-url:              # Site url.
-signoff:          # Your name.
+url:              https://ihrwein.github.io
+signoff:          Tibor Benke
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         About
-    url:          /about
-  - name:         Blog
-    url:          http://muan.co
-    external:     true
-  - name:         Email
-    url:          mailto:hello@muan.co
-    external:     true
+#  - name:         About
+#    url:          /about
+#  - name:         Blog
+#    url:          http://muan.co
+#    external:     true
+#  - name:         Email
+#    url:          mailto:hello@muan.co
+#    external:     true
   - name:         GitHub
     url:          http://github.com/muan
     external:     true
@@ -24,3 +24,10 @@ markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
+
+host: 0.0.0.0
+exlucde: fig.yml
+timezone: Europe/Budapest
+encoding: utf-8
+lsi: true
+
