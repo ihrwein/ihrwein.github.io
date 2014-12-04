@@ -1,5 +1,5 @@
 jekyll:
-    image: grahamc/jekyll
+    build: .
     volumes:
         - .:/src
     ports:
