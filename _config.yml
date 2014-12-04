@@ -1,0 +1,6 @@
+host: 0.0.0.0
+exlucde: fig.yml
+timezone: Europe/Budapest
+encoding: utf-8
+lsi: true
+
