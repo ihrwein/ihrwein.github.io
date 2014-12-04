@@ -1,5 +1,5 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
+title:            Tibi's blog
+description:      My professional blog.
 url:              https://ihrwein.github.io
 signoff:          Tibor Benke
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -16,7 +16,7 @@ links:
 #    url:          mailto:hello@muan.co
 #    external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/ihrwein
     external:     true
 highlighter:      pygments
 permalink:        pretty
@@ -26,7 +26,9 @@ redcarpet:
     - smart
 
 host: 0.0.0.0
-exlucde: fig.yml
+exclude:
+  - fig.yml
+  - Dockerfile
 timezone: Europe/Budapest
 encoding: utf-8
 lsi: true
