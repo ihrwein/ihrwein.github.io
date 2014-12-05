@@ -7,6 +7,9 @@ title: Initial commit
 For a while I wanted to create a new blog and now I have some time
 to bring it up.
 
-This post is intended to be the first one and now it's just a placeholder, because I reused a Jekyll theme and removed the original sample
-posts.
+I'm interested in Linux, Python, Docker, Salt and in other cool
+technologies so don't be surprised if you find here some posts about
+them.
 
+I would like to migrate my previous blog from blogspot but that will
+take some time.
