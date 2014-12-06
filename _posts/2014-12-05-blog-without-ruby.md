@@ -57,7 +57,15 @@ jekyll:
 
 It says, build a Docker image from my Dockerfile, mount the current
 directory as /src into the container and create a port binding between
-the host and the container. Now, you can start your own Jekyll server
+the host and the container.
+
+You have to bootstrap it first:
+
+{% highlight bash %}
+$ fig run jekyll build
+{% endhighlight %}
+
+Now, you can start your own Jekyll server
 with the following command:
 
 {% highlight bash %}
@@ -65,3 +73,7 @@ $ fig up
 {% endhighlight %}
 
 And that's all :)
+
+## References
+* [Fast, isolated development environments using Docker](http://www.fig.sh/index.html)
+* [Dockerfile Reference](https://docs.docker.com/reference/builder/)
