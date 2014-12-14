@@ -23,7 +23,7 @@ rendszerre veszélyes utasításokat, így egy virtuális gépből nehéz
 
 A Linux konténerek lényegében folyamatok jól szeparált csoportjai,
 melyek a Docker [1] megjelenésével kezdtek elterjedni. A konténerekben
-futó alklamazások többek között rendelkeznek saját felhasználókkal,
+futó alkalmazások többek között rendelkeznek saját felhasználókkal,
 fájlrendszerrel, hálózati interfészekkel, ugyanakkor az egyes
 konténerek osztoznak a hoszt rendszer kernelén és hypervisor sem
 választja el őket a hardvertől, ami több biztonsági kérdést is felvet. 
