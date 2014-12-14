@@ -9,12 +9,9 @@ google_analytics: UA-57406013-1
 links:
   - name:         About
     url:          /about
-#  - name:         Blog
-#    url:          http://muan.co
-#    external:     true
-#  - name:         Email
-#    url:          mailto:hello@muan.co
-#    external:     true
+  - name:         LinkedIn
+    url:          http://hu.linkedin.com/in/benketibor/
+    external:     true
   - name:         GitHub
     url:          http://github.com/ihrwein
     external:     true
