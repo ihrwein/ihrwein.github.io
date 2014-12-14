@@ -5,12 +5,12 @@ date: 2014-12-14 12:00:00
 #categories:
 #    - Linux Container Security
 tags:
-    - sVirt
-    - SELinux
-    - Docker
-    - LXC
-    - security
-    - seccomp
+- sVirt
+- SELinux
+- Docker
+- LXC
+- security
+- seccomp
 ---
 This is the second part of my posts about Linux Container Security. As the first one, this is in Hungarian.
 
