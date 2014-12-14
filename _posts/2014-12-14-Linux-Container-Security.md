@@ -2,6 +2,9 @@
 layout: post
 title: Linux Container Security, part I.
 date: 2014-12-14 12:00:00
+tags:
+    - cgroups
+    - linux kernel namespaces
 ---
 One of my homework was to write something about security. I choosed this title,
 hope someone will find it interesting. It's in Hungarian.
