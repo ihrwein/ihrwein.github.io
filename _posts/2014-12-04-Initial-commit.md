@@ -2,7 +2,7 @@
 layout: post
 title: Initial commit
 #date: 2013-05-06 16:27:31
-#disqus: y
+disqus: true
 ---
 For a while I wanted to create a new blog and now I have some time
 to bring it up.

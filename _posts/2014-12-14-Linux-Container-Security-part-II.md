@@ -11,6 +11,7 @@ tags:
 - LXC
 - security
 - seccomp
+disqus: true
 ---
 This is the second part of my posts about Linux Container Security. As the first one, this is in Hungarian.
 

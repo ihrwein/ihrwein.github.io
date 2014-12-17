@@ -2,7 +2,7 @@ title:            Tibi's blog
 description:      My professional blog.
 url:              https://ihrwein.github.io
 signoff:          Tibor Benke
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+disqus_shortname: ihrweingithubio
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: UA-57406013-1
 

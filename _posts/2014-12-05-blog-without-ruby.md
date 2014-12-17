@@ -2,6 +2,7 @@
 layout: post
 title: GitHub pages and Docker
 date: 2014-12-05 22:00:00
+disqus: true
 ---
 
 You need to install Ruby, Jekyll and a lot of Ruby gems to test your

@@ -2,6 +2,7 @@
 layout: post
 title: Distutils with resource files
 date: 2014-12-04 22:00:00
+disqus: true
 ---
 
 I had a little university homework with [Tegi](https://github.com/mTatai) to

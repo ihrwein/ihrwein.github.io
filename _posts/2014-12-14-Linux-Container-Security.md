@@ -5,6 +5,7 @@ date: 2014-12-14 12:00:00
 tags:
 - cgroups
 - linux kernel namespaces
+disqus: true
 ---
 One of my homework was to write something about security. I choosed this title,
 hope someone will find it interesting. It's in Hungarian.
